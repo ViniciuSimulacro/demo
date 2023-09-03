@@ -7,7 +7,7 @@
   "summary": [
     { "id": 1, "body": "Esta filem trata de uma bebedeira entre amigos", "movieid": 1 },
     { "id": 2, "body": "Este filme incrível, é i fim de uma trilogia da guerra entre homens e maquinas", "movieid": 2 },
-    { "id": 2, "body": "Este filme brasileiro, mostra as aventuras de uma dupla no sertão e no céu", "movieid": 3 }
+    { "id": 3, "body": "Este filme brasileiro, mostra as aventuras de uma dupla no sertão e no céu", "movieid": 3 }
   ],
   "director": [
     {"name": "Todd Philips", "movieid": 1},
