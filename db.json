@@ -1,14 +1,17 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "movies": [
+    { "id": 1, "title": "Se beber não case" },
+    { "id": 2, "title": "Matrix Revolution" },
+    { "id": 3, "title": "O auto da compadecida" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "summary": [
+    { "id": 1, "body": "Esta filem trata de uma bebedeira entre amigos", "movieid": 1 },
+    { "id": 2, "body": "Este filme incrível, é i fim de uma trilogia da guerra entre homens e maquinas", "movieid": 2 },
+    { "id": 2, "body": "Este filme brasileiro, mostra as aventuras de uma dupla no sertão e no céu", "movieid": 3 }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "director": [
+    {"name": "Todd Philips", "movieid": 1},
+    {"name": "Sisters Whatchonski", "movieid": 2},
+    {"name": "Guel Arraes", "movieid": 3}
+  ]
 }
