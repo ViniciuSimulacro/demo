@@ -10,8 +10,8 @@
     { "id": 3, "body": "Este filme brasileiro, mostra as aventuras de uma dupla no sertão e no céu", "movieid": 3 }
   ],
   "director": [
-    {"name": "Todd Philips", "movieid": 1},
-    {"name": "Sisters Whatchonski", "movieid": 2},
-    {"name": "Guel Arraes", "movieid": 3}
+    {"id":1, "name": "Todd Philips", "movieid": 1},
+    {"id":2, "name": "Sisters Whatchonski", "movieid": 2},
+    {"id":3, "name": "Guel Arraes", "movieid": 3}
   ]
 }
