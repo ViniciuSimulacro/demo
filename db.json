@@ -1,17 +1,53 @@
 {
   "movies": [
-    { "id": 1, "title": "Se beber não case" },
-    { "id": 2, "title": "Matrix Revolution" },
-    { "id": 3, "title": "O auto da compadecida" }
+    {
+      "id": 1,
+      "title": "Se beber n\u00e3o case",
+      "invitemsg": "J\u00e1 assistiu \"Se Beber n\u00e3o Case\", marco na com\u00e9dia cinematogr\u00e1fica? Venha dar risada e entender por que este filme revolucionou o g\u00eanero. N\u00e3o perca essa aventura insana!"
+    },
+    {
+      "id": 2,
+      "title": "Matrix Revolution",
+      "invitemsg": "Venha mergulhar no universo de 'Matrix Revolution'! Este filme transformou a hist\u00f3ria do cinema com suas inova\u00e7\u00f5es t\u00e9cnicas e conceitos filos\u00f3ficos. Venha descobrir ou redescobrir importante obra-prima!"
+    },
+    {
+      "id": 3,
+      "title": "O auto da compadecida",
+      "invitemsg": "Venham assistir 'O Auto da Compadecida'! Uma joia do cinema mundial que retrata a cultura brasileira! Aprecie essa hist\u00f3ria bem-humorada, que reflete nossa idiossincrasia como nenhum outro filme!"
+    }
   ],
   "summary": [
-    { "id": 1, "body": "Esta filem trata de uma bebedeira entre amigos", "movieid": 1 },
-    { "id": 2, "body": "Este filme incrível, é i fim de uma trilogia da guerra entre homens e maquinas", "movieid": 2 },
-    { "id": 3, "body": "Este filme brasileiro, mostra as aventuras de uma dupla no sertão e no céu", "movieid": 3 }
+    {
+      "id": 1,
+      "body": "Esta filem trata de uma bebedeira entre amigos",
+      "movieid": 1
+    },
+    {
+      "id": 2,
+      "body": "Este filme incr\u00edvel, \u00e9 i fim de uma trilogia da guerra entre homens e maquinas",
+      "movieid": 2
+    },
+    {
+      "id": 3,
+      "body": "Este filme brasileiro, mostra as aventuras de uma dupla no sert\u00e3o e no c\u00e9u",
+      "movieid": 3
+    }
   ],
   "director": [
-    {"id":1, "name": "Todd Philips", "movieid": 1},
-    {"id":2, "name": "Sisters Whatchonski", "movieid": 2},
-    {"id":3, "name": "Guel Arraes", "movieid": 3}
+    {
+      "id": 1,
+      "name": "Todd Philips",
+      "movieid": 1
+    },
+    {
+      "id": 2,
+      "name": "Sisters Whatchonski",
+      "movieid": 2
+    },
+    {
+      "id": 3,
+      "name": "Guel Arraes",
+      "movieid": 3
+    }
   ]
 }
