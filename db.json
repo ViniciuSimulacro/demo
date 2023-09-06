@@ -2,18 +2,15 @@
   "movies": [
     {
       "id": 1,
-      "title": "Se beber não case",
-      "invitemsg": "Convite a todos os amantes da comédia! Assista 'Se beber, não case', uma obra-prima que redefiniu a comédia globalmente. Venha rir e compreender seu impacto inestimável no cinema. Não perca!"
+      "title": "Se beber não case"    
     },
     {
       "id": 2,
-      "title": "Matrix Revolution",
-      "invitemsg": "Venha vivenciar a revolução do cinema em 'Matrix Revolution'! Revelamos técnicas inovadoras que redefiniram a arte. Junte-se a nós e entenda o impacto mundial deste filme único!"
+      "title": "Matrix Revolution"
     },
     {
       "id": 3,
-      "title": "O auto da compadecida",
-      "invitemsg": "Venha assistir 'O Auto da Compadecida', uma obra-prima que elevou o cinema brasileiro. Maravilhe-se com sua influência global e aprecie nossa rica cultura. Não perca!"
+      "title": "O auto da compadecida"
     }
   ],
   "summary": [
