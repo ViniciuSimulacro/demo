@@ -16,17 +16,17 @@
   "summary": [
     {
       "id": 1,
-      "body": "Esta filem trata de uma bebedeira entre amigos",
+      "body": "Esta filme trata de uma bebedeira entre amigos e suas consequencias",
       "movieid": 1
     },
     {
       "id": 2,
-      "body": "Este filme incrível, é i fim de uma trilogia da guerra entre homens e maquinas",
+      "body": "Este filme incrível, é o fim de uma trilogia da guerra entre homens e maquinas",
       "movieid": 2
     },
     {
       "id": 3,
-      "body": "Este filme brasileiro, mostra as aventuras de uma dupla no sertão e no céu",
+      "body": "Este filme brasileiro mostra as aventuras de uma dupla no sertão e no céu",
       "movieid": 3
     }
   ],
