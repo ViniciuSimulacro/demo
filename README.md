@@ -21,11 +21,7 @@ Caso tenha informações de invitemsg, você pode rodar o código normalmente, e
 
 ## Para usar este código use este Google Colab: 
 
-### https://colab.research.google.com/drive/1h4vMdBk1TXfqZC23sMSclCjo7vwkawxy?usp=sharing
-
-
-
-
+https://colab.research.google.com/drive/1h4vMdBk1TXfqZC23sMSclCjo7vwkawxy?usp=sharing
 
 ##como usar:
 
