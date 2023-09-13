@@ -11,8 +11,7 @@
 
 Qualquer dúvida ou problema no código favor entrar em contato pelo whatsapp: +55 11 97764-5543
 
-PS: é possivel que vc precise clonar o repositorio do BD também caso não funcione, então vc precisará subistituir no teste de banco de dados logo abaixo
-para verificar se esta funcionando, e na variável todobd, para que o código funcione, mas qualquer dúvida estou a disposição!
+PS: é possivel que vc precise clonar o repositorio do BD também caso não funcione (o procedimento para clonar o código esta no link no final deste tutorial), então vc precisará subistituir na linha teste de banco de dados para verificar se esta funcionando, e na variável todobd, para que o código funcione, mas qualquer dúvida estou a disposição!
 
 A resposta do teste de banco de dados fake deve ser:
 
@@ -28,12 +27,14 @@ Caso tenha informações de invitemsg, você pode rodar o código normalmente, e
 
 
 
+##como usar:
 
+Fork it and change `db.json` values or create a repo with a `db.json` file.
 
-###créditos:
+##créditos:
+
 Para conhecer sobre esse projeto de BD fake acesse:
 
-(https://my-json-server.typicode.com/typicode/demo)
+https://my-json-server.typicode.com/typicode/demo
 
-###como usar:
-Fork it and change `db.json` values or create a repo with a `db.json` file.
+
