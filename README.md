@@ -25,7 +25,7 @@ Caso tenha informações de invitemsg, você pode rodar o código normalmente, e
 
 ## como usar:
 
-Fork it and change `db.json` values or create a repo with a `db.json` file.
+Faça um Fork e modifique o arquivo `db.json` ou crie um repositório com o arquivo `db.json`.
 
 ## créditos:
 
