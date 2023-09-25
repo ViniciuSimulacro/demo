@@ -1,8 +1,8 @@
 ## Repositorio usado como banco de dados fake para projeto no Bootcamp DIO Santander Dev Week 2023
 
-## O que você precisa para usar e sse código:
+## O que você precisa para usar esse código:
 
-### Para utilizar esta código vocâ vai precisar das seguintes informações, para subistituir no código:
+### Para utilizar este código vocâ vai precisar das seguintes informações, para subistituir no código:
 
 - token do ChatGPT
 - token do GitHub
